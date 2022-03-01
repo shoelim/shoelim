@@ -2,5 +2,5 @@
 
  - 🔭 Research area: Foundations of modern ML
  - 🌱 Project topics: ML and random dynamical systems, robust and reliable ML, implicit regularization and asymptotics in ML
- - ⚡ Programming: Python, PyTorch, Jax, C++
-
+ - ⚡ Programming: Python, PyTorch, C++
+ - 📚 Reading list: [Here](https://shoelim.github.io/DSxML/) 
