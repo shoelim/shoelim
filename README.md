@@ -7,4 +7,3 @@
  
  📚 Reading list: [Here](https://shoelim.github.io/DSxML/) 
  
- 🚀 Other interests: Applied ML, software engineering, mathematical finance
