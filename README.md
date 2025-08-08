@@ -3,7 +3,7 @@
  
  🌱 Project topics: ML x random dynamical systems, sequence modeling, robust and reliable ML, implicit regularization and optimization in ML
  
- ⚡ Programming: Python, PyTorch, JAX, C++
+ ⚡ Programming: Python, PyTorch (mainly)
  
  📚 Reading list: [Here](https://shoelim.github.io/DSxML/) 
  
