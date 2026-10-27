@@ -2,7 +2,7 @@
 
  🌱 **Research focus:** Generative modeling, sequence modeling, robust and reliable ML, ML for Science, and beyond
 
- 🏆 **Research highlights:** Our work has been published regularly at leading ML venues, including ICML, NeurIPS, ICLR, JMLR, AISTATS and TMLR, with Spotlight papers at both ICML and ICLR.
+ 🏆 **Research highlights:** Our work has been published regularly in leading ML venues, including ICML, NeurIPS, ICLR, JMLR, AISTATS and TMLR, with Spotlight papers at both ICML and ICLR.
  
  ⚡ **Research group:** https://github.com/dynamai 
   
