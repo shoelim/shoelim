@@ -1,4 +1,4 @@
- ### Hi there! I am an applied mathematician working on machine learning theory, algorithms, and systems 🤓
+ ### Hi there! I am an applied mathematician working on ML theory, algorithms, and systems 🤓
 
  🌱 **Research focus:** Generative modeling, sequence modeling, robust and reliable ML, ML for Science, and beyond
 
